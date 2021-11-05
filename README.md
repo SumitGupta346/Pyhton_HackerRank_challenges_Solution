@@ -1,2 +1,0 @@
-# Pyhton_HackerRank_challenges_Solution
-# Pyhton_HackerRank_challenges_Solution
